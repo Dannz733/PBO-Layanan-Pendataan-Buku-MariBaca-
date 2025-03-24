@@ -19,7 +19,7 @@ public class MariBaca {
 
     public static void main(String[] args) {
         while (true) {
-            System.out.println("\n=== Layanan Peminjaman Buku Novel MariBaca ===");
+            System.out.println("\n=== Layanan Pendataan Buku 'MariBaca' ===");
             System.out.println("1. Tambah Buku");
             System.out.println("2. Tampilkan Buku");
             System.out.println("3. Perbarui Buku");
